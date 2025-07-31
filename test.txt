@@ -6,4 +6,7 @@ This is the final text without conflict
 
 this is edited by afrik.
 
+
 this is k7
+
+this is good
